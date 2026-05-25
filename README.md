@@ -87,6 +87,8 @@ void loop()
 ```
 
 ## 📊 Diagrama do Sistema
+
+```cpp
 🔄 Fluxo lógico
 
 [LDR Sensor]
@@ -98,6 +100,7 @@ void loop()
 [Decisão (if/else)]
    ↓            ↓
 LED ON       LED OFF
+```
 
 
 ## 🔌 Diagrama do Circuito
