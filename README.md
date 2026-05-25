@@ -86,7 +86,7 @@ void loop()
 
 ```
 
-📊 Diagrama do Sistema
+## 📊 Diagrama do Sistema
 🔄 Fluxo lógico
 [LDR Sensor]
      ↓
@@ -97,20 +97,11 @@ void loop()
 [Decisão (if/else)]
    ↓            ↓
 LED ON       LED OFF
-🔌 Diagrama do Circuito
+## 🔌 Diagrama do Circuito
 
-📷 Adicione aqui a imagem do circuito feito no Tinkercad:
 
-/imagens/circuito.png
-📁 Estrutura do projeto
-/projeto-iluminacao-inteligente
- ├── codigo.ino
- ├── README.md
- ├── /imagens
- │     └── circuito.png
- └── /diagramas
-       └── fluxo.png
-🧠 Conceitos aplicados
+
+## 🧠 Conceitos aplicados
 Sistemas embarcados
 Microcontroladores (Arduino)
 Sensores e atuadores
@@ -118,7 +109,8 @@ Programação em C/C++
 Lógica de decisão (if/else)
 Inteligência artificial baseada em regras
 Simulação conceitual de arquitetura ARM
-🏗️ Arquitetura ARM (conceitual)
+
+## 🏗️ Arquitetura ARM (conceitual)
 
 Embora o projeto utilize Arduino (arquitetura AVR), o sistema foi analisado sob o ponto de vista de execução em arquitetura ARM Cortex-M.
 
@@ -128,16 +120,18 @@ Entrada via ADC (sensor LDR)
 Processamento em registradores
 Execução de instruções condicionais
 Controle de saída digital (LED)
-🚀 Como executar
+
+## 🚀 Como executar
 Abrir o código no Arduino IDE
 Montar o circuito no Tinkercad ou protoboard
 Compilar e enviar o código
 Observar o funcionamento automático do LED
-👨‍💻 Autor
+
+## 👨‍💻 Autor
 
 Suriel Ormond Franqueline
 
-📚 Referências
+## 📚 Referências
 https://www.arduino.cc
 Stallings, W. Arquitetura e Organização de Computadores
 Material de aula – Microprocessadores e Microcontroladores
