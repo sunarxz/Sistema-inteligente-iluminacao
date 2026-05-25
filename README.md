@@ -97,7 +97,27 @@ void loop()
 [Decisão (if/else)]
    ↓            ↓
 LED ON       LED OFF
+
 ## 🔌 Diagrama do Circuito
+
+# Sistema ativo (noturno)
+<img width="1012" height="688" alt="Sistema ativo (noturno)" src="https://github.com/user-attachments/assets/6fad88b2-190a-403e-9ede-332180088e65" />
+
+# Sistema inativo (dia)
+<img width="1048" height="660" alt="Sistema inativo (dia)" src="https://github.com/user-attachments/assets/02d9e8f3-8f6d-46b9-b22d-529363654eeb" />
+
+# LED ligado (zoom)
+<img width="965" height="632" alt="LED aceso (zoom)" src="https://github.com/user-attachments/assets/3c5c24cb-092f-45d8-909c-be6784bb948c" />
+
+# LED desligado (zoom)
+<img width="986" height="628" alt="LED desligado (zoom)" src="https://github.com/user-attachments/assets/dfcb0d38-3e88-4861-8bd6-19668dea93ff" />
+
+# Componentes
+<img width="1013" height="352" alt="Componentes" src="https://github.com/user-attachments/assets/9f9a8127-c25a-4b69-9b0b-61f65fbcca99" />
+
+# Imagem Código
+<img width="610" height="712" alt="Codigo" src="https://github.com/user-attachments/assets/4a2e6a5d-75b4-458d-87b5-f59e4269bdf9" />
+
 
 
 
