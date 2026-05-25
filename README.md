@@ -88,6 +88,7 @@ void loop()
 
 ## 📊 Diagrama do Sistema
 🔄 Fluxo lógico
+
 [LDR Sensor]
      ↓
 [Leitura Analógica]
@@ -97,6 +98,7 @@ void loop()
 [Decisão (if/else)]
    ↓            ↓
 LED ON       LED OFF
+
 
 ## 🔌 Diagrama do Circuito
 
