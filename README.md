@@ -24,7 +24,7 @@ Desenvolver um sistema embarcado utilizando Arduino que:
 
 ---
 
-## ⚙️ Componentes utilizados
+## ⚙️ Componentes totais utilizados
 
 - Arduino UNO  
 - Sensor LDR (Light Dependent Resistor)  
