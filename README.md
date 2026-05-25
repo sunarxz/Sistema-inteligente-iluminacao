@@ -1,2 +1,2 @@
-# Sistema-ilumina-o-inteligente
+# Sistema-inteligente-iluminacao
 Projeto de sistema embarcado inteligente para automação residencial, desenvolvido com Arduino, sensor LDR e lógica baseada em regras, com simulação conceitual de arquitetura ARM.
