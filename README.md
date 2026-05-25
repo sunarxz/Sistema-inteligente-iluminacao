@@ -133,7 +133,9 @@ Suriel Ormond Franqueline
 
 ## 📚 Referências
 https://www.arduino.cc
+
 Stallings, W. Arquitetura e Organização de Computadores
+
 Material de aula – Microprocessadores e Microcontroladores
 
 
