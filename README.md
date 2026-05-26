@@ -110,7 +110,7 @@ LED ON       LED OFF
 
 ## 🔌 Diagrama do Circuito
 
-https://www.tinkercad.com/things/ivGrvIik9sE-sistema-de-iluminacao-inteligente
+https://www.tinkercad.com/things/ivGrvIik9sE-sistema-de-iluminacao-inteligente?sharecode=H3MVdPWmlNCmMh9p_QvtPufDiFoRsDXZMU8ZrdgdU0k
 
 # Sistema ativo (noturno)
 <img width="1012" height="688" alt="Sistema ativo (noturno)" src="https://github.com/user-attachments/assets/6fad88b2-190a-403e-9ede-332180088e65" />
