@@ -11,6 +11,9 @@ Este projeto tem como objetivo simular um sistema de automação residencial int
 - 🌑 Ambiente escuro → LED liga automaticamente  
 - ☀️ Ambiente claro → LED desliga automaticamente  
 
+## Artigo Acadêmico
+[Artigo acadêmico.pdf](https://github.com/user-attachments/files/28240935/Artigo.academico.pdf)
+
 ---
 
 ## 🎯 Objetivo
@@ -124,7 +127,7 @@ LED ON       LED OFF
 <img width="610" height="712" alt="Codigo" src="https://github.com/user-attachments/assets/4a2e6a5d-75b4-458d-87b5-f59e4269bdf9" />
 
 
-
+---
 
 ## 🧠 Conceitos aplicados
 Sistemas embarcados
@@ -134,6 +137,8 @@ Programação em C/C++
 Lógica de decisão (if/else)
 Inteligência artificial baseada em regras
 Simulação conceitual de arquitetura ARM
+
+---
 
 ## 🏗️ Arquitetura ARM (conceitual)
 
@@ -146,15 +151,21 @@ Processamento em registradores
 Execução de instruções condicionais
 Controle de saída digital (LED)
 
+---
+
 ## 🚀 Como executar
 Abrir o código no Arduino IDE
 Montar o circuito no Tinkercad ou protoboard
 Compilar e enviar o código
 Observar o funcionamento automático do LED
 
+---
+
 ## 👨‍💻 Autor
 
 Suriel Ormond Franqueline
+
+---
 
 ## 📚 Referências
 https://www.arduino.cc
