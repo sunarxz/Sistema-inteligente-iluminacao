@@ -130,6 +130,9 @@ https://www.tinkercad.com/things/ivGrvIik9sE-sistema-de-iluminacao-inteligente
 # Imagem Código
 <img width="610" height="712" alt="Codigo" src="https://github.com/user-attachments/assets/4a2e6a5d-75b4-458d-87b5-f59e4269bdf9" />
 
+# Monitor Serial
+<img width="1060" height="249" alt="Monitor Serial" src="https://github.com/user-attachments/assets/22c8cc7f-4bcf-415b-b8c1-60e565e3257d" />
+
 
 ---
 
