@@ -11,6 +11,8 @@ Este projeto tem como objetivo simular um sistema de automação residencial int
 - 🌑 Ambiente escuro → LED liga automaticamente  
 - ☀️ Ambiente claro → LED desliga automaticamente  
 
+---
+
 ## 📜 Artigo Acadêmico
 [Artigo acadêmico.pdf](https://github.com/user-attachments/files/28240935/Artigo.academico.pdf)
 
